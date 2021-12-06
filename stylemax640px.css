@@ -1,0 +1,11 @@
+@media (max-width: 640px) {
+
+    header {
+        padding: 0 40px;
+    }
+
+    .singlepost-container {
+        padding: 0 40px;
+    }
+
+}

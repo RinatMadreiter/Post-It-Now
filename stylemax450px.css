@@ -1,0 +1,19 @@
+@media (max-width: 450px) {
+
+    .nav-img {
+        display: none;
+    }
+
+    .menu-img {
+        display: block;
+        width: 22px;
+        height: 22px;
+        padding: 10px;
+        margin-top: 5px;
+        cursor: pointer;
+    }
+
+    .singlepost-container {
+        font-size: 14px;
+    }
+}
